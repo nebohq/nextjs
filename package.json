@@ -2,7 +2,12 @@
   "name": "@nebohq/nextjs",
   "version": "0.0.1",
   "description": "Builds embeddable components from https://nebohq.com",
-  "main": "index.js",
+  "main": "bin/nebo.js",
+  "files": [
+    "bin",
+    "src",
+    "static"
+  ],
   "author": "Nebo Engineering <engineering@nebohq.com>",
   "license": "MIT",
   "bin": {

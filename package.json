@@ -1,6 +1,6 @@
 {
   "name": "@nebohq/nextjs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Builds embeddable components from https://nebohq.com",
   "main": "bin/nebo.js",
   "files": [
@@ -14,6 +14,6 @@
     "nebo": "bin/nebo.js"
   },
   "dependencies": {
-    "@nebohq/nebo": "^0.2.2"
+    "@nebohq/nebo": "^0.2.12"
   }
 }
